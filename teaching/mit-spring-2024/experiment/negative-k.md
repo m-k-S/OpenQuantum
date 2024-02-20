@@ -16,6 +16,7 @@ Reference: [Mechanical Metamaterials for Full-Band Mechanical Wave Shielding](ht
 This specific metamaterial unit cell consists of springs and rigid links arranged in a specific geometry. Two design criteria are derived based on energy balance considerations:
 - The spring constants and link lengths must satisfy a specific ratio.
 - The total potential energy stored in the springs must equal the input work done by external forces.
+
 Satisfying these criteria ensures that, regardless of the displacement, the force transmitted to the payload remains constant. This means the payload experiences zero effective stiffness. With zero stiffness, the payload is completely isolated from any vibrations or displacements applied to the metamaterial. The input energy just circulates between the springs/links without affecting the payload.
 This novel "energy circulation" mechanism yields the negative effective stiffness. It's fundamentally different from typical negative stiffness systems that combine positive and negative stiffness elements. In essence, the system becomes a mechanical inductor.
 

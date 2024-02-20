@@ -1,4 +1,4 @@
-# What is a twisted-beam interferometer?
+# What is saturated absorption spectroscopy?
 
 # Why do we need it?
 
